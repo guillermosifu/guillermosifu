@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi , I'm Guillermo Sifuentes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png"></p>
 
 ### 🪚 Detail
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=linder3hs&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=guillermosifu&theme=onedark" />
 </p>
 
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=linder3hs&theme=algolia" alt="linder3hs"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guillermosifu&theme=algolia" alt="guillermosifu"  /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&layout=compact&theme=algolia"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermosifu&layout=compact&theme=algolia"></p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=linder3hs&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=guillermosifu&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -35,13 +35,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
 ### ⚡️ Recent GitHub Activity
- <a href="https://github.com/guillermosifu"><img alt="Linder Hassinger Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guillermosifu&theme=react-dark" /></a>
+ <a href="https://github.com/guillermosifu"><img alt="Guillermo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guillermosifu&theme=react-dark" /></a>
 
 
 ### 🧑🏼‍💻 Let's Connect
 <p align="center">
-  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:linderhassinger00@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://assets-ecru.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:sifuentes120100@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/guillermosifu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/guillermo-s-a20304194"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
